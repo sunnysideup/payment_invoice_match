@@ -10,11 +10,15 @@ $maxDifference = 3;
 
 for($x = 0; $x < $numberOfAttempts; $x++) {
 	$invoices = array(
-		474.38
+		5,
+		5,
+		10,
+		20
 	);
 
 	$payments = array(
-		38.53
+		20,
+		20
 	);
 	echo "<h2>Attempt ".($x + 1)."</h3>";
 	unset($solutions);
