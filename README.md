@@ -1,0 +1,1 @@
+This basic php script allows you to match payments with invoices - when they dont match!
